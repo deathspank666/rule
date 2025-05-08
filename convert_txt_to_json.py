@@ -36,7 +36,10 @@ def load_existing_json() -> dict:
 def split_domains(domains: set[str]) -> tuple[list[str], list[str]]:
     direct, suffix = [], []
     for d in sorted(domains):
-        (direct if d.count(".") == 1 else suffix).append(d)
+        if len(d.split(".")) >= 3:
+            direct.append(d)
+        else:
+            suffix.append(d)
     return direct, suffix
 
 def save_json(data: dict):
