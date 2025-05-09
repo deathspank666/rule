@@ -3,7 +3,7 @@
   "rules": [
     {
       "network": "udp",
-      "port_range": "50000:50099"
+      "port_range": "50000:51000"
     }
   ]
 }
