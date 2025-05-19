@@ -25,8 +25,14 @@ jobs:
           python-version: '3.11'
 
       - name: Create output directories
+        run: mkdir -p json raw srs
+
+      - name: Save initial state (for diff later)
         run: |
-          mkdir -p json raw srs
+          mkdir old_json
+          mkdir old_srs
+          cp json/*.json old_json/ 2>/dev/null || true
+          cp srs/*.srs old_srs/ 2>/dev/null || true
 
       - name: Convert TXT to JSON
         run: python convert_txt_to_json.py
@@ -38,11 +44,19 @@ jobs:
         run: |
           curl -fsSL https://sing-box.app/deb-install.sh | bash
 
-      - name: Compile JSON to SRS
+      - name: Compile JSON to SRS only if changed
         run: |
-          for file in json/*.json; do
-            filename=$(basename "$file" .json)
-            sing-box rule-set compile "$file" -o "srs/${filename}.srs"
+          mkdir -p srs
+          for json_file in json/*.json; do
+            filename=$(basename "$json_file" .json)
+            old_file="old_json/${filename}.json"
+            if ! cmp -s "$json_file" "$old_file"; then
+              echo "JSON changed: $filename.json"
+              sing-box rule-set compile "$json_file" -o "srs/${filename}.srs"
+            else
+              echo "No changes in $filename.json; skipping compile"
+              cp "old_srs/${filename}.srs" "srs/${filename}.srs" 2>/dev/null || true
+            fi
           done
 
       - name: Commit and push changes
@@ -50,6 +64,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add json/*.json raw/*.txt srs/*.srs
-          git commit -m "chore: auto-compile domain lists and rule-sets" || exit 0
-          git pull --rebase
-          git push
+          git diff --cached --quiet || (git commit -m "chore: auto-compile domain lists and rule-sets" && git pull --rebase && git push)
