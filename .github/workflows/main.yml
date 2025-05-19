@@ -1,15 +1,13 @@
-name: Compile Domain Lists from TXT
+name: Auto-generate domain rules
 
 on:
-  workflow_dispatch:
   push:
     paths:
-      - "raw/*.txt"
-      - "convert_txt_to_json.py"
-      - "convert_json_to_txt.py"
+      - 'raw/*.txt'
+      - 'json/*.json'
+      - 'convert_txt_to_json.py'
 
-permissions:
-  contents: write
+  workflow_dispatch:  # Позволяет вручную запускать из GitHub UI
 
 jobs:
   build:
@@ -22,27 +20,25 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
-      - name: Create output directories
-        run: mkdir -p json raw srs
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt || true  # если нужен requirements.txt
 
-      - name: Save initial state (for diff later)
+      - name: Run convert_txt_to_json.py
         run: |
-          mkdir old_json
-          mkdir old_srs
-          cp json/*.json old_json/ 2>/dev/null || true
-          cp srs/*.srs old_srs/ 2>/dev/null || true
-
-      - name: Convert TXT to JSON
-        run: python convert_txt_to_json.py
-
-      - name: Convert JSON to TXT
-        run: python convert_json_to_txt.py
+          mkdir -p json
+          python3 convert_txt_to_json.py
 
       - name: Install sing-box
         run: |
           curl -fsSL https://sing-box.app/deb-install.sh | bash
+
+      - name: Save old JSON for comparison
+        run: |
+          mkdir -p old_json old_srs
+          cp -a json/*.json old_json/ || true
+          cp -a srs/*.srs old_srs/ || true
 
       - name: Compile JSON to SRS only if changed
         run: |
@@ -63,5 +59,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add json/*.json raw/*.txt srs/*.srs
-          git diff --cached --quiet || (git commit -m "chore: auto-compile domain lists and rule-sets" && git pull --rebase && git push)
+          git add raw/*.txt json/*.json srs/*.srs
+          git diff --cached --quiet || git commit -m "chore: auto-compile domain lists and rule-sets"
+          git push
