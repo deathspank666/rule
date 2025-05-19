@@ -1,10 +1,10 @@
-name: Compile Domain Lists from JSON
+name: Compile Domain Lists from TXT
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - "raw/unavailable-in-russia.txt"
+      - "raw/*.txt"
       - "convert_txt_to_json.py"
       - "convert_json_to_txt.py"
 
@@ -24,6 +24,10 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Create output directories
+        run: |
+          mkdir -p json raw srs
+
       - name: Convert TXT to JSON
         run: python convert_txt_to_json.py
 
@@ -36,7 +40,6 @@ jobs:
 
       - name: Compile JSON to SRS
         run: |
-          mkdir -p srs
           for file in json/*.json; do
             filename=$(basename "$file" .json)
             sing-box rule-set compile "$file" -o "srs/${filename}.srs"
@@ -48,4 +51,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add json/*.json raw/*.txt srs/*.srs
           git commit -m "chore: auto-compile domain lists and rule-sets" || exit 0
+          git pull --rebase
           git push
