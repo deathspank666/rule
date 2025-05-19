@@ -7,8 +7,8 @@ FILENAME = "unavailable-in-russia"
 EXCLUDED_DOMAINS = {
     "tiktok.com", "tiktokv.com", "ttwstatic.com", "docker.io",
     "google.com", "googleapis.com", "github.com", "githubcopilot.com",
-    "githubusercontent.com", "netflix.com", "fast.com", "chatgpt.com",
-    "openai.com", "oaistatic.com", "oaiusercontent.com", "epicgames.com",
+    "githubusercontent.com", "netflix.com", "chatgpt.com",
+    "openai.com", "oaistatic.com", "epicgames.com",
     "microsoft.com", "x.ai"
 }
 
