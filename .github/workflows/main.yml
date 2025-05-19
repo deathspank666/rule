@@ -1,13 +1,15 @@
-name: Auto-generate domain rules
+name: Compile Domain Lists from JSON
 
 on:
+  workflow_dispatch:
   push:
     paths:
-      - 'raw/*.txt'
-      - 'json/*.json'
-      - 'convert_txt_to_json.py'
+      - "raw/unavailable-in-russia.txt"
+      - "convert_txt_to_json.py"
+      - "convert_json_to_txt.py"
 
-  workflow_dispatch:  # Позволяет вручную запускать из GitHub UI
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -20,45 +22,30 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt || true  # если нужен requirements.txt
+      - name: Convert TXT to JSON
+        run: python convert_txt_to_json.py
 
-      - name: Run convert_txt_to_json.py
-        run: |
-          mkdir -p json
-          python3 convert_txt_to_json.py
+      - name: Convert JSON to TXT
+        run: python convert_json_to_txt.py
 
       - name: Install sing-box
         run: |
           curl -fsSL https://sing-box.app/deb-install.sh | bash
 
-      - name: Save old JSON for comparison
-        run: |
-          mkdir -p old_json old_srs
-          cp -a json/*.json old_json/ || true
-          cp -a srs/*.srs old_srs/ || true
-
-      - name: Compile JSON to SRS only if changed
+      - name: Compile JSON to SRS
         run: |
           mkdir -p srs
-          for json_file in json/*.json; do
-            filename=$(basename "$json_file" .json)
-            old_file="old_json/${filename}.json"
-            if ! cmp -s "$json_file" "$old_file"; then
-              echo "JSON changed: $filename.json"
-              sing-box rule-set compile "$json_file" -o "srs/${filename}.srs"
-            else
-              echo "No changes in $filename.json; skipping compile"
-              cp "old_srs/${filename}.srs" "srs/${filename}.srs" 2>/dev/null || true
-            fi
+          for file in json/*.json; do
+            filename=$(basename "$file" .json)
+            sing-box rule-set compile "$file" -o "srs/${filename}.srs"
           done
 
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add raw/*.txt json/*.json srs/*.srs
-          git diff --cached --quiet || git commit -m "chore: auto-compile domain lists and rule-sets"
+          git add json/*.json raw/*.txt srs/*.srs
+          git commit -m "chore: auto-compile domain lists and rule-sets" || exit 0
           git push
