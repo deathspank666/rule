@@ -245,6 +245,7 @@ hollisterco.com
 home-connect.cn
 home-connect.com
 hostinger.com
+hostup.se
 hotels.com
 hpe.com
 htmhell.dev
@@ -317,6 +318,7 @@ linear.app
 lipstickalley.com
 liquidsky.com
 llamameta.net
+login.app.spotify.com
 logo.com
 lolz.guru
 lookerstudio.google.com
