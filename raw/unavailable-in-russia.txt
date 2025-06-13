@@ -11,7 +11,6 @@ abercrombie.com
 accounts.spotify.com
 activestate.com
 acurapartswarehouse.com
-adafruit.com
 adam-audio.com
 adidas.com
 adminforge.de
@@ -65,7 +64,10 @@ bluesky-soft.com
 blur.io
 booth.pm
 booth.pximg.net
+bosch.com
 bosch.de
+boschaftermarket.com
+boschautoparts.com
 botnadzor.org
 brawlstarsgame.com
 bricklink.com
@@ -93,7 +95,6 @@ cdw.com
 census.gov
 cesium.com
 chaos.com
-chat.com
 chat.openai.com.cdn.cloudflare.net
 chatfuel.com
 cisecurity.org
@@ -191,6 +192,7 @@ flir.com
 flir.eu
 flourish.studio
 flukenetworks.com
+flyertalk.com
 footballapi.pulselive.com
 force-user-content.com
 force.com
@@ -203,6 +205,7 @@ framer.com
 freeimages.com
 freemyip.com
 futurelearn.com
+fxnetworks.com
 g711.org
 gambody.com
 game.co.uk
@@ -221,6 +224,7 @@ ghidra-sre.org
 ghostrc.game.idtech.services
 gitlab.com
 global.fncstatic.com
+global.platform.seconddinnertech.com
 glpals.com
 gonitro.com
 google.dev
@@ -268,6 +272,7 @@ indiehackers.com
 infineon.com
 informit.com
 insanelymac.com
+insearch.site
 insideevs.com
 install.launcher.omniverse.nvidia.com
 intel.de
@@ -288,6 +293,7 @@ jetbrains.com
 jetbrains.space
 joesandbox.com
 joyreactor.cc
+jpg5.su
 jsfiddle.net
 keepgrowing.in
 keepsolid.com
@@ -308,7 +314,6 @@ ldoceonline.com
 le-production.tv
 leica-geosystems.com
 lenso.ai
-libgen.li
 licdn.com
 lidarr.audio
 lifehacker.com
@@ -329,8 +334,10 @@ lowes.com
 lucid.app
 m3u.in
 mail-api.proton.me
+mailinator.com
 malwarebytes.org
 manus.im
+marvelsnap.com
 mashable.com
 matrix.org
 maximintegrated.com
@@ -393,7 +400,6 @@ notion.site
 notion.so
 ntp.msn.com
 nxp.com
-oaiusercontent.com
 oclc.org
 octopart-clicks.com
 octopart.com
@@ -421,7 +427,6 @@ peter-tanner.com
 pexels.com
 philscomputerlab.com
 phishtank.com
-phncdn.com
 photonengine.com
 pimeyes.com
 pinata.cloud
@@ -524,7 +529,6 @@ snort.org
 snyk.io
 solarwinds.com
 sophos.com
-sora.com
 spacelift.io
 spankbang.com
 spiceworks.com
@@ -560,6 +564,7 @@ talosintelligence.com
 target.com
 te.com
 teamviewer.com
+techbargains.com
 telemetr.io
 templatemonster.com
 temu.com
