@@ -79,6 +79,8 @@ btdig.com
 btod.com
 buanzo.org
 buf.build
+bunkr.red
+bunkr.ru
 buymeacoffee.com
 cambiumnetworks.com
 canva-apps.com
@@ -439,6 +441,7 @@ pluralsight.com
 pny.com
 polymarket.com
 porntrex.com
+postimg.cc
 premierleague.com
 privatekeys.pw
 proactivebackend-pa.googleapis.com
@@ -480,6 +483,8 @@ ruckuswireless.com
 rule34.xxx
 rustdesk.com
 rutracker.cc
+saint2.cr
+saint2.su
 salesforce-experience.com
 salesforce-hub.com
 salesforce-scrt.com
@@ -541,6 +546,7 @@ squareup.com
 st.com
 stackoverflow.com
 startpage.com
+stashdb.org
 static.lostfilm.top
 statology.org
 steamidfinder.com
