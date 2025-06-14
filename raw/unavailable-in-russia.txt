@@ -79,8 +79,6 @@ btdig.com
 btod.com
 buanzo.org
 buf.build
-bunkr.red
-bunkr.ru
 buymeacoffee.com
 cambiumnetworks.com
 canva-apps.com
@@ -442,6 +440,7 @@ pny.com
 polymarket.com
 porntrex.com
 postimg.cc
+postimgs.org
 premierleague.com
 privatekeys.pw
 proactivebackend-pa.googleapis.com
@@ -654,4 +653,5 @@ zedge.net
 zerossl.com
 zetalliance.org
 zf.com
+zoosk.com
 zoosk.com
