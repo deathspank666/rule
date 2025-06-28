@@ -30,6 +30,7 @@ amdm.ru
 amplitude.com
 amx.com
 analog.com
+andrevi.ch
 angryemailtranslator.com
 anidub.com
 annimon.com
@@ -44,6 +45,7 @@ archive.ph
 assets.heroku.com
 att.com
 atwiki.jp
+audiobookbay.lu
 augmentcode.com
 autodesk.com
 av-connection.com
@@ -75,6 +77,7 @@ broadcom.com
 broccolionline.jp
 broncosportforum.com
 bsky.app
+bt4gprx.com
 btdig.com
 btod.com
 buanzo.org
@@ -182,6 +185,7 @@ fantasy-worlds.net
 fast.com
 fastflux.ai
 fastspring.com
+filebin.net
 files.manus.cdn
 filmitorrent.net
 filmix.fm
@@ -232,6 +236,7 @@ gonitro.com
 google.dev
 gpsonextra.net
 gpu-monkey.com
+gql.twitch.tv
 gr-assets.com
 grafana.com
 graylog.org
@@ -251,6 +256,7 @@ hex-rays.com
 hollisterco.com
 home-connect.cn
 home-connect.com
+home.by.me
 hostinger.com
 hostup.se
 hotels.com
@@ -304,6 +310,7 @@ keysight.com
 kinogo.ec
 kinogo.uk
 kinozal.guru
+kinozaltv.life
 klaviyo.com
 kmail-lists.com
 knowyourmeme.com
@@ -414,6 +421,7 @@ omnissa.com
 onfastspring.com
 onlinesim.io
 onshape.com
+openculture.com
 opensea.io
 oracle.com
 oraclecloud.com
@@ -426,6 +434,8 @@ parsec.app
 parts-express.com
 pcgamesn.com
 pcmag.com
+penguin.com
+penguinrandomhouse.com
 perforce.com
 peter-tanner.com
 pexels.com
@@ -531,6 +541,7 @@ sklatchiki.ru
 sky.com
 skycdp.com
 skyshowtime.com
+slifki.biz
 smartbear.co
 smartbear.com
 sndcdn.com
@@ -607,6 +618,7 @@ typing.com
 uaudio.com
 ultimaker.com
 ultraedit.com
+undress.cc
 unscreen.com
 upwork.com
 usher.ttvnw.net
