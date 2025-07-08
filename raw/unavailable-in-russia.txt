@@ -100,6 +100,7 @@ cesium.com
 chaos.com
 chat.openai.com.cdn.cloudflare.net
 chatfuel.com
+cici.com
 cisecurity.org
 clarabridge.net
 clashofclans.com
@@ -219,6 +220,7 @@ gamedistribution.com
 gamesrepack.com
 gamestop.com
 gaming.amazon.com
+gateway.pinata.cloud
 geforcenow.com
 genspark.ai
 geolocation.onetrust.com
@@ -346,6 +348,7 @@ m.pushbr.com
 m3u.in
 mail-api.proton.me
 mailinator.com
+make.com
 malwarebytes.org
 manus.im
 marvelsnap.com
@@ -468,7 +471,6 @@ qcad.org
 qobuz.com
 qt.io
 qualcomm.com
-quickconnect.to
 quicknode.com
 quora.com.cdn.cloudflare.net
 radarr.video
