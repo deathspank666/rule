@@ -119,6 +119,7 @@ coinpayments.net
 coinsbee.com
 community.sophos.com
 contabo.com
+coomer.su
 copernicus.eu
 corsair.com
 coursera.org
@@ -303,6 +304,7 @@ jetbrains.com
 jetbrains.space
 joesandbox.com
 joyreactor.cc
+jpg5.su
 jsfiddle.net
 keepgrowing.in
 keepsolid.com
@@ -496,6 +498,8 @@ ruckuswireless.com
 rule34.xxx
 rustdesk.com
 rutracker.cc
+saint2.cr
+saint2.su
 salesforce-experience.com
 salesforce-hub.com
 salesforce-scrt.com
