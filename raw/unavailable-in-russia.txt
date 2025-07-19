@@ -111,6 +111,7 @@ clip.opus.pro
 cmems-du.eu
 cnd2exp.online
 cocalc.com
+coda.io
 codebrowser.dev
 codeium.com
 cohere.com
@@ -304,7 +305,6 @@ jetbrains.com
 jetbrains.space
 joesandbox.com
 joyreactor.cc
-jpg5.su
 jsfiddle.net
 keepgrowing.in
 keepsolid.com
@@ -475,6 +475,7 @@ quicknode.com
 quora.com.cdn.cloudflare.net
 radarr.video
 ratatype.com
+raycast-releases.com
 raycast.com
 razer.com
 reactflow.dev
@@ -498,8 +499,6 @@ ruckuswireless.com
 rule34.xxx
 rustdesk.com
 rutracker.cc
-saint2.cr
-saint2.su
 salesforce-experience.com
 salesforce-hub.com
 salesforce-scrt.com
@@ -572,6 +571,7 @@ steamidfinder.com
 steamstat.info
 steganos.com
 stereophile.com
+store.epicgames.com
 studychat.app
 stuff.co.nz
 suggestqueries.google.com
@@ -630,6 +630,7 @@ veeam.com
 viperatech.com
 vipergirls.to
 visualcapitalist.com
+vividseats.com
 vmware.com
 volkswagen-classic-parts.com
 vpnlove.me
