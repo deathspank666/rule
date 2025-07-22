@@ -41,6 +41,7 @@ api.imgur.com
 api.jetbrains.ai
 api.service-kp.com
 apiary.io
+apkmirror.com
 archive.ph
 assets.heroku.com
 att.com
@@ -170,6 +171,7 @@ ef.edu
 eggertspiele.de
 elastic.co
 element14.com
+elements.envato.com
 elevenlabs.io
 elgiganten.se
 engagor.com
@@ -608,6 +610,7 @@ timberland.de
 tmdb-image-prod.b-cdn.net
 tmdb.com
 tommy.com
+toolbox.app
 torrenteditor.com
 torrentgalaxy.to
 trailblazer.me
