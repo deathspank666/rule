@@ -479,6 +479,7 @@ qt.io
 qualcomm.com
 quicknode.com
 quora.com.cdn.cloudflare.net
+qwant.com
 radarr.video
 ratatype.com
 raycast-releases.com
