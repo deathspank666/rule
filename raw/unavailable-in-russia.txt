@@ -43,6 +43,7 @@ api.service-kp.com
 apiary.io
 apkmirror.com
 archive.ph
+artstation.com
 assets.heroku.com
 att.com
 atwiki.jp
@@ -165,6 +166,7 @@ dyson.com
 dyson.nl
 dyson.se
 easyjet.com
+editorx.com
 edu-cisco.org
 ef.com
 ef.edu
@@ -179,6 +181,7 @@ entrust.com
 eporner.com
 eu.shop.battle.net
 everand.com
+expandrive.com
 extremetech.com
 extto.com
 f1.com
@@ -256,6 +259,8 @@ halooglasi.com
 hashicorp.com
 hashkey.com
 haydaygame.com
+hc-ping.com
+hchk.io
 healthline.com
 herokucdn.com
 hex-rays.com
@@ -275,6 +280,7 @@ hyundainews.com
 iaai.com
 ibm.com
 icd10data.com
+iditelesombase.org
 idtech.services
 iedb.org
 ign.com
@@ -312,6 +318,7 @@ jpg4.su
 jpg5.su
 jpg6.su
 jsfiddle.net
+kaleido.ai
 keepgrowing.in
 keepsolid.com
 keysight.com
@@ -349,10 +356,12 @@ lostfilm.download
 lostfilm.info
 lostfilmtv2.site
 lowes.com
+lu4.org
 lucid.app
 m.pushbr.com
 m3u.in
 mail-api.proton.me
+mailerlite.com
 mailinator.com
 make.com
 malwarebytes.org
@@ -386,10 +395,12 @@ monotypefonts.com
 more.fm
 mouser.fi
 mssg.me
+mw2.wiki
 myfonts.com
 myheritage.com
 myjetbrains.com
 myprepaidcenter.com
+myqrcode.com
 myrotvorets.center
 nba.com
 neo4j.com
@@ -560,6 +571,7 @@ sophos.com
 soundcloud.cloud
 spacelift.io
 spankbang.com
+speedtest.net
 spiceworks.com
 spitfireaudio.com
 splunk.com
