@@ -21,6 +21,7 @@ ai-chat.bsg.brave.com
 airbrake.io
 alienwarearena.com
 alltrails.com
+alohafind.com
 alphacoders.com
 altaro.com
 alza.hu
