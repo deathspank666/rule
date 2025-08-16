@@ -115,6 +115,7 @@ cmems-du.eu
 cnd2exp.online
 cocalc.com
 coda.io
+code.gist.build
 codebrowser.dev
 codeium.com
 cohere.com
@@ -400,6 +401,7 @@ mw2.wiki
 myfonts.com
 myheritage.com
 myjetbrains.com
+myparallels.com
 myprepaidcenter.com
 myqrcode.com
 myrotvorets.center
@@ -426,6 +428,7 @@ nippon.com
 nitropdf.com
 nnmstatic.win
 norton.com
+notion-emojis.s3-us-west-2.amazonaws.com
 notion-static.com
 notion.new
 notion.site
@@ -443,6 +446,8 @@ onfastspring.com
 onlinesim.io
 onshape.com
 openculture.com
+openh264.org
+openrouter.ai
 opensea.io
 oracle.com
 oraclecloud.com
@@ -450,6 +455,10 @@ ottg.app
 outflank.nl
 padi.com
 pages.dev
+parallels.cn
+parallels.com
+parallels.net
+parallelsaccess.com
 paraswap.io
 parsec.app
 parts-express.com
@@ -505,6 +514,7 @@ recraft.ai
 reddxxx.com
 redgifs.com
 redis.io
+redislabs.com
 reka.ai
 remna.st
 remove.bg
@@ -539,6 +549,7 @@ seekvectorlogo.net
 selezen.org
 semrush.com
 sendy.jp
+sentry.dev
 sephora.com
 serato.com
 serialcart.com
@@ -622,6 +633,7 @@ thinkpads.com
 thomas-krenn.com
 ti.com
 timberland.de
+tiptop-vpn.com
 tmdb-image-prod.b-cdn.net
 tmdb.com
 tommy.com
@@ -664,6 +676,7 @@ walletconnect.com
 walmart.com
 watermarkremover.io
 wattpad.com
+wbgames.com
 wdfiles.com
 we.tl
 webex.com
