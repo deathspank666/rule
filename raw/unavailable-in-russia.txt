@@ -258,6 +258,7 @@ guilded.gg
 habrastorage.org
 hackernoon.com
 halooglasi.com
+harrypotter.com
 hashicorp.com
 hashkey.com
 haydaygame.com
@@ -339,6 +340,7 @@ lambdalabs.com
 langdock.com
 ldoceonline.com
 le-production.tv
+lego.com
 leica-geosystems.com
 lenso.ai
 licdn.com
@@ -583,7 +585,6 @@ sophos.com
 soundcloud.cloud
 spacelift.io
 spankbang.com
-speedtest.net
 spiceworks.com
 spitfireaudio.com
 splunk.com
@@ -690,6 +691,7 @@ wiki.fextralife.com
 wikidot.com
 windows10spotlight.com
 windsurf.com
+wizardingworld.com
 wk.cz
 wonderclub.com
 www.spotify.com
