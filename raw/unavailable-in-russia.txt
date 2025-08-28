@@ -577,6 +577,8 @@ skyshowtime.com
 slifki.biz
 smartbear.co
 smartbear.com
+sms-activate.io
+snapgene.com
 sndcdn.com
 snort.org
 snyk.io
@@ -653,6 +655,7 @@ tuta.io
 tvn24.pl
 typing.com
 uaudio.com
+uizard.io
 ultimaker.com
 ultraedit.com
 undress.cc
@@ -694,7 +697,6 @@ windsurf.com
 wizardingworld.com
 wk.cz
 wonderclub.com
-www.spotify.com
 www3.corsair.com
 xerox.com
 xfantazy.com
