@@ -45,6 +45,7 @@ apiary.io
 apkmirror.com
 archive.ph
 artstation.com
+artstationmedia.com
 assets.heroku.com
 att.com
 atwiki.jp
