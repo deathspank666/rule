@@ -35,6 +35,7 @@ andrevi.ch
 angryemailtranslator.com
 anidub.com
 annimon.com
+ansible.com
 ansys.com
 anthropic.com
 anythingllm.com
@@ -51,7 +52,6 @@ att.com
 atwiki.jp
 audiobookbay.lu
 augmentcode.com
-autodesk.com
 av-connection.com
 avcdn.net
 avira.com
@@ -140,11 +140,11 @@ cybersecurity-help.cz
 daemon-tools.cc
 darkproject.eu
 data-cdn.mbamupdates.com
+data.cline.bot
 databricks.com
 dating.com
 daz3d.com
 decrypt.day
-deepl.com
 deepsource.com
 deepsource.io
 dellcdn.com
@@ -168,6 +168,7 @@ ducati.com
 dyson.com
 dyson.nl
 dyson.se
+easydmarc.com
 easyjet.com
 editorx.com
 edu-cisco.org
@@ -184,6 +185,7 @@ entrust.com
 eporner.com
 eu.shop.battle.net
 everand.com
+exchanger.bits.media
 expandrive.com
 extremetech.com
 extto.com
@@ -311,6 +313,7 @@ interactivebrokers.co.uk
 intuit.com
 intuitibits.com
 iperf3serverlist.net
+itch.io
 itninja.com
 jabra.com
 jamf.com
@@ -373,6 +376,7 @@ mail-api.proton.me
 mailerlite.com
 mailinator.com
 make.com
+malw.link
 malwarebytes.org
 manus.im
 marvelsnap.com
@@ -413,6 +417,7 @@ myprepaidcenter.com
 myqrcode.com
 myrotvorets.center
 nba.com
+ndi.tv
 neo4j.com
 netflix.ca
 netflix.net
@@ -439,7 +444,6 @@ notion-emojis.s3-us-west-2.amazonaws.com
 notion-static.com
 notion.new
 notion.site
-notion.so
 ntp.msn.com
 nxp.com
 oclc.org
@@ -479,6 +483,7 @@ pexels.com
 philscomputerlab.com
 phishtank.com
 photonengine.com
+picoxr.com
 pimeyes.com
 pinata.cloud
 pingdom.com
@@ -532,7 +537,6 @@ reverb.com
 rockthejvm.com
 rublacklist.net
 ruckuswireless.com
-rule34.xxx
 ruscryde.net
 rustdesk.com
 rutracker.cc
