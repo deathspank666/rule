@@ -28,12 +28,14 @@ alza.hu
 amazfitwatchfaces.com
 amd.com
 amdm.ru
-amplitude.com
 amx.com
 analog.com
 andrevi.ch
 angryemailtranslator.com
 anidub.com
+anime-portal.su
+anime1.best
+animespirit.ru
 annimon.com
 ansible.com
 ansys.com
@@ -91,6 +93,7 @@ cambiumnetworks.com
 canva-apps.com
 canva.dev
 capacitorjs.com
+capcut.com
 carrefouruae.com
 cats.com
 cbilling.eu
@@ -123,6 +126,7 @@ cohere.com
 coingate.com
 coinpayments.net
 coinsbee.com
+coldfilm.xyz
 community.sophos.com
 contabo.com
 coomer.su
@@ -193,6 +197,7 @@ f1.com
 f95-zone.to
 familysearch.org
 fanatical.com
+fansly.com
 fantasy-worlds.net
 fast.com
 fastflux.ai
@@ -200,6 +205,7 @@ fastspring.com
 filebin.net
 files.manus.cdn
 filmitorrent.net
+filmix.ac
 filmix.fm
 filmix.la
 findagrave.com
@@ -313,6 +319,7 @@ interactivebrokers.co.uk
 intuit.com
 intuitibits.com
 iperf3serverlist.net
+isshiki.donmai.u
 itch.io
 itninja.com
 jabra.com
@@ -326,13 +333,18 @@ jpg4.su
 jpg5.su
 jpg6.su
 jsfiddle.net
+jut-su.net
+jut.su
 kaleido.ai
+kara.su
 keepgrowing.in
 keepsolid.com
 kemono.cr
 keysight.com
 kinogo.ec
+kinogo.la
 kinogo.uk
+kinovod.net
 kinozal.guru
 kinozaltv.life
 klaviyo.com
@@ -395,6 +407,7 @@ meta.com
 metademolab.com
 metopera.org
 michaelkors.global
+microcenter.com
 microchip.com
 middlewareinventory.com
 militarnyi.com
@@ -514,6 +527,7 @@ quicknode.com
 quora.com.cdn.cloudflare.net
 qwant.com
 radarr.video
+rapidzona.tv
 ratatype.com
 raycast-releases.com
 raycast.com
@@ -554,6 +568,7 @@ saverudata.net
 sbom.sh
 schaeffler.com
 schenker-tech.de
+sci-hub.st
 screamingfrog.co.uk
 scryde.io
 scryde.net
@@ -695,6 +710,7 @@ vipergirls.to
 visualcapitalist.com
 vividseats.com
 vmware.com
+vndb.org
 volkswagen-classic-parts.com
 vpnlove.me
 vpnpay.io
@@ -722,6 +738,7 @@ windsurf.com
 wizardingworld.com
 wk.cz
 wonderclub.com
+worldcat.org
 www3.corsair.com
 xerox.com
 xfantazy.com
@@ -733,6 +750,7 @@ xnxx.tv
 xsts.auth.xboxlive.com
 xtracloud.net
 xvideos-cdn.com
+xxxtorrent.top
 yeggi.com
 yithemes.com
 yourdictionary.com
