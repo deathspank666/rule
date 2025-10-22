@@ -135,6 +135,7 @@ corsair.com
 coursera.org
 cpu-monkey.com
 cpuid.com
+crdroid.net
 credly.com
 crowdstrike.com
 crunchbase.com
@@ -157,6 +158,7 @@ designify.com
 devart.com
 developer.nvidia.com
 devexpress.com
+diabrowser.com
 dice.com
 dickssportinggoods.com
 diffblue.com
@@ -174,6 +176,7 @@ dyson.nl
 dyson.se
 easydmarc.com
 easyjet.com
+easylist-downloads.adblockplus.org
 editorx.com
 edu-cisco.org
 ef.com
@@ -191,6 +194,7 @@ eu.shop.battle.net
 everand.com
 exchanger.bits.media
 expandrive.com
+extreme-modding.de
 extremetech.com
 extto.com
 f1.com
@@ -248,6 +252,7 @@ getsafeonline.org
 gfn.am
 ghidra-sre.org
 ghostrc.game.idtech.services
+gifyu.com
 gitlab.com
 global.fncstatic.com
 global.platform.seconddinnertech.com
@@ -399,6 +404,10 @@ mbamupdates.com
 mbed.com
 medicalnewstoday.com
 meest-shop.com
+mega.co.nz
+mega.io
+mega.nz
+megapay.nz
 megapeer.vip
 megogo.net
 meraki.com
@@ -411,6 +420,7 @@ microcenter.com
 microchip.com
 middlewareinventory.com
 militarnyi.com
+missav123.com
 mixcloud.com
 moneypuck.com
 mongodb.com
@@ -458,6 +468,7 @@ notion-static.com
 notion.new
 notion.site
 ntp.msn.com
+nude-moon.org
 nxp.com
 oclc.org
 octopart-clicks.com
@@ -536,6 +547,7 @@ reactflow.dev
 reactor.cc
 readdle.com
 readybot.io
+realbooru.com
 recraft.ai
 reddxxx.com
 redgifs.com
@@ -671,6 +683,7 @@ temu.com
 tenable.com
 teslasoft.org
 theaudiodb.com
+theporndude.com
 thesassway.com
 thinkpads.com
 thomas-krenn.com
