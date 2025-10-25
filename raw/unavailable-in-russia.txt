@@ -46,6 +46,7 @@ api.jetbrains.ai
 api.service-kp.com
 apiary.io
 apkmirror.com
+arc.net
 archive.ph
 artstation.com
 artstationmedia.com
@@ -107,6 +108,7 @@ cesium.com
 chaos.com
 chat.openai.com.cdn.cloudflare.net
 chatfuel.com
+chub.ai
 cici.com
 cisecurity.org
 clarabridge.net
@@ -126,6 +128,7 @@ cohere.com
 coingate.com
 coinpayments.net
 coinsbee.com
+coldfilm.city
 coldfilm.xyz
 community.sophos.com
 contabo.com
@@ -187,6 +190,7 @@ element14.com
 elements.envato.com
 elevenlabs.io
 elgiganten.se
+eneba.com
 engagor.com
 entrust.com
 eporner.com
@@ -219,6 +223,7 @@ flibusta.net
 flipboard.com
 flir.com
 flir.eu
+flisland.net
 flourish.studio
 flukenetworks.com
 flyertalk.com
@@ -279,6 +284,7 @@ hashkey.com
 haydaygame.com
 hc-ping.com
 hchk.io
+hdstudio.org
 healthline.com
 herokucdn.com
 hex-rays.com
@@ -289,6 +295,7 @@ home.by.me
 hostinger.com
 hostup.se
 hotels.com
+housebrand.com
 hpe.com
 htmhell.dev
 humblebundle.com
@@ -326,6 +333,7 @@ intuitibits.com
 iperf3serverlist.net
 isshiki.donmai.u
 itch.io
+itdog.info
 itninja.com
 jabra.com
 jamf.com
@@ -349,6 +357,7 @@ keysight.com
 kinogo.ec
 kinogo.la
 kinogo.uk
+kinopub.me
 kinovod.net
 kinozal.guru
 kinozaltv.life
@@ -383,6 +392,8 @@ lolz.guru
 lookerstudio.google.com
 lostfilm.download
 lostfilm.info
+lostfilm.tw
+lostfilm.uno
 lostfilmtv2.site
 lowes.com
 lu4.org
@@ -396,6 +407,7 @@ make.com
 malw.link
 malwarebytes.org
 manus.im
+manybooks.net
 marvelsnap.com
 mashable.com
 matrix.org
@@ -405,7 +417,6 @@ mbed.com
 medicalnewstoday.com
 meest-shop.com
 mega.co.nz
-mega.io
 mega.nz
 megapay.nz
 megapeer.vip
@@ -422,6 +433,7 @@ middlewareinventory.com
 militarnyi.com
 missav123.com
 mixcloud.com
+modrinth.com
 moneypuck.com
 mongodb.com
 mongodb.net
@@ -432,6 +444,7 @@ more.fm
 mouser.fi
 mssg.me
 mw2.wiki
+myanimelist.net
 myfonts.com
 myheritage.com
 myjetbrains.com
@@ -442,6 +455,7 @@ myrotvorets.center
 nba.com
 ndi.tv
 neo4j.com
+netapp.com
 netflix.ca
 netflix.net
 netflixinvestor.com
@@ -519,6 +533,7 @@ pluralsight.com
 pny.com
 polymarket.com
 porntrex.com
+posthog.com
 postimg.cc
 postimgs.org
 premierleague.com
@@ -565,6 +580,7 @@ rublacklist.net
 ruckuswireless.com
 ruscryde.net
 rustdesk.com
+rustorka.com
 rutracker.cc
 salesforce-experience.com
 salesforce-hub.com
@@ -713,6 +729,7 @@ ultimaker.com
 ultraedit.com
 undress.cc
 unscreen.com
+unsplash.com
 upwork.com
 usher.ttvnw.net
 vagrantcloud.com
@@ -738,6 +755,7 @@ wbgames.com
 wdfiles.com
 we.tl
 webex.com
+webmd.com
 webnames.ca
 webscraper.io
 webtoons.com
