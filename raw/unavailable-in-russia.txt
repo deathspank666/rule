@@ -19,6 +19,8 @@ ahcdn.com
 ahrefs.com
 ai-chat.bsg.brave.com
 airbrake.io
+aircanada.com
+akc.org
 alienwarearena.com
 alltrails.com
 alohafind.com
@@ -108,6 +110,7 @@ cesium.com
 chaos.com
 chat.openai.com.cdn.cloudflare.net
 chatfuel.com
+chesscomfiles.com
 chub.ai
 cici.com
 cisecurity.org
@@ -131,6 +134,7 @@ coinsbee.com
 coldfilm.city
 coldfilm.xyz
 community.sophos.com
+connect.ngrok-agent.com
 contabo.com
 coomer.su
 copernicus.eu
@@ -334,7 +338,6 @@ intuitibits.com
 iperf3serverlist.net
 isshiki.donmai.u
 itch.io
-itdog.info
 itninja.com
 jabra.com
 jamf.com
@@ -445,7 +448,6 @@ more.fm
 mouser.fi
 mssg.me
 mw2.wiki
-myanimelist.net
 myfonts.com
 myheritage.com
 myjetbrains.com
@@ -456,6 +458,7 @@ myrotvorets.center
 nba.com
 ndi.tv
 neo4j.com
+netacad.com
 netapp.com
 netflix.ca
 netflix.net
@@ -499,6 +502,7 @@ openculture.com
 openh264.org
 openrouter.ai
 opensea.io
+opentrackr.org
 oracle.com
 oraclecloud.com
 ottg.app
@@ -638,6 +642,7 @@ siemens.com
 simplex.chat
 simplex.im
 site.com
+siteground.com
 sketchup.com
 sklatchiki.ru
 sky.com
@@ -652,6 +657,7 @@ sndcdn.com
 snort.org
 snyk.io
 solarwinds.com
+sonara.ai
 sophos.com
 soundcloud.cloud
 spacelift.io
@@ -715,6 +721,7 @@ torrenteditor.com
 torrentgalaxy.to
 trailblazer.me
 trailhead.com
+transferwise.com
 trellix.com
 tria.ge
 trionworlds.com
@@ -723,6 +730,9 @@ truthsocial.com
 tsmc.com
 tuta.io
 tvn24.pl
+twin.me
+twinlife-systems.com
+twinme.com
 typing.com
 uaudio.com
 uizard.io
