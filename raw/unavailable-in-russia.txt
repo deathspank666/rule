@@ -7,6 +7,7 @@
 7tv.app
 7tv.io
 8chan.moe
+9cache.com
 abercrombie.com
 accounts.spotify.com
 activestate.com
@@ -448,6 +449,7 @@ more.fm
 mouser.fi
 mssg.me
 mw2.wiki
+myanimelist.net
 myfonts.com
 myheritage.com
 myjetbrains.com
@@ -603,6 +605,7 @@ schaeffler.com
 schenker-tech.de
 sci-hub.st
 screamingfrog.co.uk
+script.google.com
 scryde.io
 scryde.net
 scryde.world
@@ -706,6 +709,7 @@ temu.com
 tenable.com
 teslasoft.org
 theaudiodb.com
+thegameawards.com
 theporndude.com
 thesassway.com
 thinkpads.com
@@ -752,6 +756,7 @@ visualcapitalist.com
 vividseats.com
 vmware.com
 vndb.org
+volet.com
 volkswagen-classic-parts.com
 vpnlove.me
 vpnpay.io
