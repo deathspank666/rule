@@ -1,30 +1,31 @@
 {
-    "version": 3,
-    "rules": [
-        {
-            "domain_suffix": [
-                "facetime.apple.com",
-                "facetime-apple-com.we.apple-dns.net",
-                "facetime.com"
-            ]
-        },
-        {
-            "ip_cidr": [
-                "17.248.192.0/22",
-                "17.173.0.0/16",
-                "17.178.0.0/16",
-                "17.133.0.0/16"
-            ]
-        },
-        {
-            "port": [
-                "80",
-                "443",
-                "5223",
-                "3478-3497",
-                "16384-16387",
-                "16393-16402"
-            ]
-        }
-    ]
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "facetime.apple.com",
+        "facetime-apple-com.we.apple-dns.net",
+        "facetime.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "17.248.192.0/22",
+        "17.173.0.0/16",
+        "17.178.0.0/16",
+        "17.133.0.0/16"
+      ]
+    },
+    {
+      "network": ["tcp", "udp"],
+      "port_range": [
+        "80:80",
+        "443:443",
+        "5223:5223",
+        "3478:3497",
+        "16384:16387",
+        "16393:16402"
+      ]
+    }
+  ]
 }
