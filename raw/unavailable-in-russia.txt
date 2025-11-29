@@ -148,6 +148,7 @@ credly.com
 crowdstrike.com
 crunchbase.com
 cub.red
+curseforge.com
 cvedetails.com
 cybersecurity-help.cz
 daemon-tools.cc
