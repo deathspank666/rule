@@ -605,6 +605,7 @@ samsclub.com
 sap.com
 saverudata.net
 sbom.sh
+sc-cdn.net
 schaeffler.com
 schenker-tech.de
 sci-hub.st
@@ -659,6 +660,7 @@ slifki.biz
 smartbear.co
 smartbear.com
 sms-activate.io
+snapchat.com
 snapgene.com
 sndcdn.com
 snort.org
