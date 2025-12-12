@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "facetime.apple.com",
+                "facetime-apple-com.we.apple-dns.net",
+                "facetime.com"
+            ]
+        }
+    ]
+}
