@@ -1,0 +1,19 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "meet.google.com",
+                "meetings.googleapis.com",
+                "stun.l.google.com",
+                "stun1.l.google.com",
+                "hangouts.clients6.google.com",
+                "hangouts.google.com",
+                "meet.turns.goog",
+                "clients2.google.com",
+                "clients4.google.com",
+                "clients6.google.com"
+            ]
+        }
+    ]
+}
