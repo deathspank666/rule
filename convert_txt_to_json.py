@@ -1,7 +1,6 @@
-# convert_txt_to_json.py
-
 import json
 from pathlib import Path
+from publicsuffix2 import get_sld
 
 FILENAME = "unavailable-in-russia"
 EXCLUDED_DOMAINS = {
@@ -36,10 +35,16 @@ def load_existing_json() -> dict:
 def split_domains(domains: set[str]) -> tuple[list[str], list[str]]:
     direct, suffix = [], []
     for d in sorted(domains):
-        if len(d.split(".")) >= 3:
-            direct.append(d)
-        else:
+        try:
+            sld = get_sld(d)
+            
+            if sld == d:
+                suffix.append(d)
+            else:
+                direct.append(d)
+        except Exception:
             suffix.append(d)
+    
     return direct, suffix
 
 def save_json(data: dict):
