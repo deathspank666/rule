@@ -1,60 +1,46 @@
 import json
 import os
 
-JSON_DIR = 'json'
-RAW_DIR = 'raw'
+JSON_DIR = "json"
+RAW_DIR = "raw"
 
-
-def read_json(json_file_path: str) -> dict:
-    with open(json_file_path, 'r') as f:
+def load_json(filepath):
+    with open(filepath, "r", encoding="utf-8") as f:
         return json.load(f)
 
+def write_txt(filepath, lines):
+    with open(filepath, "w", encoding="utf-8") as f:
+        for line in lines:
+            f.write(line + "\n")
 
-def extract_domains(rule_data: dict) -> list[str]:
+def extract_domains(rule_data):
     domains = []
 
-    for rule in rule_data.get('rules', []):
-        if 'domain' in rule:
-            domains.extend(rule['domain'])
+    if "domain" in rule_data and isinstance(rule_data["domain"], list):
+        domains.extend(rule_data["domain"])
 
-        if 'domain_suffix' in rule:
-            domains.extend(rule['domain_suffix'])
+    if "domain_suffix" in rule_data and isinstance(rule_data["domain_suffix"], list):
+        domains.extend(rule_data["domain_suffix"])
 
-    return sorted(set(domains))
+    return domains
 
-
-def save_txt(file_path: str, domains: list[str]) -> None:
-    with open(file_path, 'w') as f:
-        for domain in domains:
-            f.write(f'{domain}\n')
-
-
-def process_json_files() -> None:
-    json_files = [f for f in os.listdir(JSON_DIR) if f.endswith('.json')]
-
-    for json_file in json_files:
-        if json_file == 'discord-full.json':  # Since it's in a discord-domains.json
+def main():
+    for filename in os.listdir(JSON_DIR):
+        if not filename.endswith(".json"):
             continue
 
-        json_path = os.path.join(JSON_DIR, json_file)
-        txt_filename = os.path.basename(json_file).replace('.json', '.txt')
-        txt_path = os.path.join(RAW_DIR, txt_filename)
+        json_path = os.path.join(JSON_DIR, filename)
+        rule_name = filename[:-5]
+        txt_path = os.path.join(RAW_DIR, f"{rule_name}.txt")
 
-        rule_data = read_json(json_path)
+        data = load_json(json_path)
 
-        domains = extract_domains(rule_data)
+        domains = extract_domains(data)
 
-        if domains:
-            save_txt(txt_path, domains)
-            print(f'Processed {json_file} → {txt_filename} ({len(domains)} domains)')
-            continue
+        domains = sorted(set(domains))
 
-        print(f'Skipped {json_file} - no domains found')
+        write_txt(txt_path, domains)
+        print(f"✔ Generated: {txt_path}")
 
-
-def main() -> None:
-    process_json_files()
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
