@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install Python dependencies
+        run: pip install publicsuffix2
+
       - name: Convert TXT to JSON
         run: python convert_txt_to_json.py
 
