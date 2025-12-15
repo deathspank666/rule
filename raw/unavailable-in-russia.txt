@@ -122,6 +122,9 @@ clashofclans.com
 clashroyaleapp.com
 clevelandclinic.org
 clickup.com
+clients2.google.com
+clients4.google.com
+clients6.google.com
 clip.opus.pro
 cmems-du.eu
 cnd2exp.online
@@ -281,6 +284,7 @@ gql.twitch.tv
 gr-assets.com
 grafana.com
 graylog.org
+gridgain.com
 grizzlysms.com
 groq.com
 groupon.com
@@ -289,6 +293,8 @@ guilded.gg
 habrastorage.org
 hackernoon.com
 halooglasi.com
+hangouts.clients6.google.com
+hangouts.google.com
 harrypotter.com
 hashicorp.com
 hashkey.com
@@ -426,6 +432,9 @@ mbamupdates.com
 mbed.com
 medicalnewstoday.com
 meest-shop.com
+meet.google.com
+meet.turns.goog
+meetings.googleapis.com
 mega.co.nz
 mega.io
 mega.nz
@@ -712,6 +721,8 @@ stereophile.com
 store.epicgames.com
 studychat.app
 stuff.co.nz
+stun.l.google.com
+stun1.l.google.com
 suggestqueries.google.com
 summerana.com
 supercell.com
