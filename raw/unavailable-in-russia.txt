@@ -103,6 +103,7 @@ cats.com
 cbilling.eu
 cbilling.vip
 cdn.web-platform.io
+cdn2site.com
 cdn32.lol
 cdnbunny.org
 cdntogo.net
@@ -451,6 +452,7 @@ microcenter.com
 microchip.com
 middlewareinventory.com
 militarnyi.com
+mint.com
 missav123.com
 mixcloud.com
 modrinth.com
@@ -483,6 +485,7 @@ netflix.net
 netflixinvestor.com
 netflixtechblog.com
 netlify.com
+neuesbad.de
 newark.com
 newsroom.porsche.com
 nfl.com
@@ -538,6 +541,7 @@ pcgamesn.com
 pcmag.com
 penguin.com
 penguinrandomhouse.com
+pepephone.com
 perforce.com
 perplexity.ai
 peter-tanner.com
@@ -768,6 +772,7 @@ tria.ge
 trionworlds.com
 trueachievements.com
 truthsocial.com
+tsheets.com
 tsmc.com
 tuta.io
 tvn24.pl
