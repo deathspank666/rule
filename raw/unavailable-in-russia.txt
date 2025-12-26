@@ -96,6 +96,7 @@ btdig.com
 btod.com
 buanzo.org
 buf.build
+bufferbloat.net
 buymeacoffee.com
 cambiumnetworks.com
 canva-apps.com
@@ -193,6 +194,7 @@ document360.com
 document360.io
 download3.omnissa.com
 dpidetector.org
+dreamina.capcut.com
 dub.sh
 ducati.com
 dyson.com
@@ -237,6 +239,7 @@ filebin.net
 files.manus.cdn
 filmitorrent.net
 filmix.ac
+filmix.fan
 filmix.fm
 filmix.la
 findagrave.com
@@ -390,6 +393,7 @@ kinopub.me
 kinovod.net
 kinozal.guru
 kinozaltv.life
+klarna.com
 klaviyo.com
 kmail-lists.com
 knowyourmeme.com
@@ -468,6 +472,7 @@ microchip.com
 middlewareinventory.com
 militarnyi.com
 mint.com
+mintmobile.com
 missav123.com
 mixcloud.com
 modrinth.com
@@ -557,6 +562,7 @@ paraswap.io
 paritydeals.com
 parsec.app
 parts-express.com
+patreonusercontent.com
 pcgamesn.com
 pcmag.com
 penguin.com
@@ -594,6 +600,7 @@ prowlarr.com
 ptc.com
 public.parsec.app
 pump.fun
+pvpessence.com
 qaweb.dev
 qcad.org
 qobuz.com
