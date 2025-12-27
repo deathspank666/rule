@@ -433,7 +433,6 @@ lostfilmtv2.site
 lowes.com
 lu4.org
 lucid.app
-m.pushbr.com
 m3u.in
 magaz.global
 mail-api.proton.me
@@ -600,6 +599,7 @@ prowlarr.com
 ptc.com
 public.parsec.app
 pump.fun
+pushbr.com
 pvpessence.com
 qaweb.dev
 qcad.org
