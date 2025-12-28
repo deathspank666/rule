@@ -455,7 +455,6 @@ mbamupdates.com
 mbed.com
 medicalnewstoday.com
 meest-shop.com
-meet.google.com
 meet.turns.goog
 meetings.googleapis.com
 mega.co.nz
@@ -582,7 +581,6 @@ picoxr.com
 pimeyes.com
 pinata.cloud
 pingdom.com
-pixabay.com
 platform.activestate.com
 plugin-alliance.com
 plugshare.com
@@ -641,6 +639,7 @@ reverb.com
 rockthejvm.com
 rublacklist.net
 ruckuswireless.com
+rule34.xxx
 ruscryde.net
 rustdesk.com
 rustorka.com
@@ -723,7 +722,6 @@ snap-dev.net
 snap.com
 snapads.com
 snapchat-com
-snapchat.com
 snapgene.com
 snapkit.com
 snapmap.com
