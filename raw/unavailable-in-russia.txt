@@ -882,6 +882,7 @@ xvideos-cdn.com
 xxxtorrent.top
 yeggi.com
 yithemes.com
+
 yourdictionary.com
 youtrack.cloud
 zapier.com
@@ -891,3 +892,8 @@ zerossl.com
 zetalliance.org
 zf.com
 zoosk.com
+cursor-cdn.com
+cursor.com
+cursor.sh
+cursorapi.com
+
