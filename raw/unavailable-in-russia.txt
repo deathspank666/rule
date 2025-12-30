@@ -24,6 +24,7 @@ airbrake.io
 aircanada.com
 akc.org
 alienwarearena.com
+alkalimakersuite-pa.clients6.google.com
 alltrails.com
 alohafind.com
 alphacoders.com
@@ -404,6 +405,7 @@ kowalski7cc.xyz
 kroger.com
 kupujemprodajem.com
 kym-cdn.com
+labs.google
 lambdalabs.com
 langdock.com
 ldoceonline.com
@@ -525,6 +527,7 @@ nippon.com
 nitropdf.com
 nnmstatic.win
 norton.com
+notebooklm.google.com
 notion-emojis.s3-us-west-2.amazonaws.com
 notion-static.com
 notion.new
@@ -532,6 +535,7 @@ notion.site
 ntp.msn.com
 nude-moon.org
 nxp.com
+o.pki.goog
 oclc.org
 octopart-clicks.com
 octopart.com
