@@ -14,6 +14,7 @@ accounts.spotify.com
 activestate.com
 acurapartswarehouse.com
 adam-audio.com
+adbappcontrol.com
 adidas.com
 adminforge.de
 agar.io
@@ -29,6 +30,7 @@ alltrails.com
 alohafind.com
 alphacoders.com
 altaro.com
+alterportal.net
 alza.hu
 amazfitwatchfaces.com
 amd.com
@@ -66,8 +68,10 @@ augmentcode.com
 av-connection.com
 avcdn.net
 avira.com
+b-cdn.net
 bacch.com
 beacon3d.com
+beamng.com
 bell-sw.com
 bestbuy.com
 bestchange.ru
@@ -127,6 +131,7 @@ cisecurity.org
 clarabridge.net
 clashofclans.com
 clashroyaleapp.com
+claude.com
 clevelandclinic.org
 clickup.com
 clients2.google.com
@@ -176,6 +181,7 @@ databricks.com
 dating.com
 daz3d.com
 deckbrew.xyz
+decky.xyz
 decrypt.day
 deepsource.com
 deepsource.io
@@ -224,6 +230,7 @@ eneba.com
 engagor.com
 entrust.com
 eporner.com
+esahubble.org
 eu.shop.battle.net
 everand.com
 exchanger.bits.media
@@ -264,6 +271,7 @@ force.com
 fortiguard.com
 fortinet.com
 forums.tomshardware.com
+fosshub.com
 fotoforensics.com
 foxnews.com
 framer.com
@@ -279,6 +287,7 @@ gamesrepack.com
 gamestop.com
 gaming.amazon.com
 gateway.pinata.cloud
+geekuninstaller.com
 geforcenow.com
 genspark.ai
 geolocation.onetrust.com
@@ -369,6 +378,8 @@ iperf3serverlist.net
 isshiki.donmai.u
 itch.io
 itninja.com
+itunes.apple.com
+ixxx.com
 jabra.com
 jamf.com
 jetbrains.ai
@@ -394,6 +405,7 @@ kinogo.ec
 kinogo.la
 kinogo.uk
 kinopub.me
+kinopub.online
 kinovod.net
 kinozal.guru
 kinozaltv.life
@@ -426,6 +438,7 @@ lingq.com
 lipstickalley.com
 liquidsky.com
 llamameta.net
+localsend.org
 login.app.spotify.com
 logo.com
 lolz.guru
@@ -487,6 +500,8 @@ monoprice.com
 monotype.com
 monotypefonts.com
 more.fm
+mos-gorsud.co
+mos-gorsud.site
 mouser.fi
 msn.com
 mssg.me
@@ -536,6 +551,7 @@ ntp.msn.com
 nude-moon.org
 nxp.com
 o.pki.goog
+ocbase.com
 oclc.org
 octopart-clicks.com
 octopart.com
@@ -548,8 +564,10 @@ onlinesim.io
 onshape.com
 openculture.com
 openh264.org
+openrailwaymap.org
 openrouter.ai
 opensea.io
+opensubtitles.com
 opentrackr.org
 oracle.com
 oraclecloud.com
@@ -659,6 +677,7 @@ samsclub.com
 sap.com
 saveeditonline.com
 saverudata.net
+sb-cd.com
 sbom.sh
 sc-cdn.net
 sc-corp.net
@@ -710,6 +729,7 @@ showtime.com
 siemens.com
 simplex.chat
 simplex.im
+sing-box.sagernet.org
 site.com
 siteground.com
 sketchup.com
@@ -782,6 +802,7 @@ target.com
 te.com
 teamviewer.com
 techbargains.com
+technobezz.com
 telemetr.io
 templatemonster.com
 temu.com
@@ -813,6 +834,8 @@ trueachievements.com
 truthsocial.com
 tsheets.com
 tsmc.com
+tunemymusic.com
+turbovid.cr
 tuta.io
 tvdevinfo.com
 tvn24.pl
@@ -881,6 +904,7 @@ xmg.gg
 xnxx-cdn.com
 xnxx.net
 xnxx.tv
+xraycore.org
 xsts.auth.xboxlive.com
 xtracloud.net
 xvideos-cdn.com
