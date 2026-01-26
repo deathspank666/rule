@@ -18,6 +18,7 @@ adam-audio.com
 adbappcontrol.com
 adidas.com
 adminforge.de
+affinity.studio
 agar.io
 ahcdn.com
 ahrefs.com
@@ -27,6 +28,7 @@ aircanada.com
 akc.org
 alienwarearena.com
 alkalimakersuite-pa.clients6.google.com
+all3dp.com
 alltrails.com
 alohafind.com
 alphacoders.com
@@ -303,7 +305,6 @@ gifyu.com
 git.new
 gitlab.com
 global.fncstatic.com
-global.platform.seconddinnertech.com
 glpals.com
 gonitro.com
 google.dev
@@ -455,6 +456,7 @@ lostpix.com
 lowes.com
 lu4.org
 lucid.app
+lyst.com
 m3u.in
 magaz.global
 mail-api.proton.me
@@ -559,6 +561,7 @@ ocbase.com
 oclc.org
 octopart-clicks.com
 octopart.com
+octopus.do
 octostatic.com
 oculus.com
 okx.com
@@ -617,6 +620,7 @@ posthog.com
 postimg.cc
 postimgs.org
 premierleague.com
+primark.com
 primevue.org
 privatekeys.pw
 proactivebackend-pa.googleapis.com
@@ -711,6 +715,7 @@ scryde7.net
 scryde8.net
 scryde9.net
 sdxcentral.com
+seconddinnertech.com
 securitytrails.com
 seekvectorlogo.net
 selezen.org
@@ -749,6 +754,7 @@ snap-dev.net
 snap.com
 snapads.com
 snapchat-com
+snapgametech.com
 snapgene.com
 snapkit.com
 snapmap.com
@@ -901,6 +907,7 @@ wk.cz
 wonderclub.com
 worldcat.org
 www3.corsair.com
+x-minus.pro
 xerox.com
 xfantazy.com
 xhcdn.com
