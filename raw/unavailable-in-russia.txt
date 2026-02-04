@@ -10,7 +10,6 @@
 9cache.com
 a-vrv.akamaized.net
 abercrombie.com
-accounts.spotify.com
 accuweather.com
 activestate.com
 acurapartswarehouse.com
@@ -28,6 +27,7 @@ aircanada.com
 akc.org
 alienwarearena.com
 alkalimakersuite-pa.clients6.google.com
+alkalimining-pa.googleapis.com
 all3dp.com
 alltrails.com
 alohafind.com
@@ -166,6 +166,7 @@ cpu-monkey.com
 cpuid.com
 crdroid.net
 credly.com
+crixet.com
 crowdstrike.com
 crunchbase.com
 cub.red
@@ -238,7 +239,6 @@ eu.shop.battle.net
 everand.com
 exchanger.bits.media
 expandrive.com
-extreme-modding.de
 extremetech.com
 extto.com
 f1.com
@@ -293,6 +293,7 @@ gaming.amazon.com
 gateway.pinata.cloud
 geekuninstaller.com
 geforcenow.com
+generativelanguage.googleapis.com
 genspark.ai
 geolocation.onetrust.com
 geospy.ai
@@ -443,7 +444,6 @@ lipstickalley.com
 liquidsky.com
 llamameta.net
 localsend.org
-login.app.spotify.com
 logo.com
 lolz.guru
 lookerstudio.google.com
@@ -599,6 +599,7 @@ penguin.com
 penguinrandomhouse.com
 pepephone.com
 perforce.com
+periscope.tv
 perplexity.ai
 perplexity.com
 peter-tanner.com
@@ -629,6 +630,7 @@ proactivebackend-pa.googleapis.com
 profitwell.com
 promods.net
 prowlarr.com
+pscp.tv
 ptc.com
 public.parsec.app
 pump.fun
@@ -644,7 +646,6 @@ quora.com.cdn.cloudflare.net
 qwant.com
 radarr.video
 radiojar.com
-rapidzona.tv
 ratatype.com
 raycast-releases.com
 raycast.com
@@ -874,7 +875,6 @@ veeam.com
 viperatech.com
 vipergirls.to
 visualcapitalist.com
-vividseats.com
 vmware.com
 vndb.org
 vod-fy.crunchyrollcdn.com
