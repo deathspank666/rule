@@ -129,6 +129,7 @@ chat.openai.com.cdn.cloudflare.net
 chatfuel.com
 chesscomfiles.com
 chub.ai
+chunkserve.com
 cici.com
 cisecurity.org
 clarabridge.net
@@ -453,6 +454,7 @@ lostfilm.tw
 lostfilm.uno
 lostfilmtv2.site
 lostpix.com
+lowendtalk.com
 lowes.com
 lu4.org
 lucid.app
@@ -553,6 +555,7 @@ notion-emojis.s3-us-west-2.amazonaws.com
 notion-static.com
 notion.new
 notion.site
+nsfwdog.com
 ntp.msn.com
 nude-moon.org
 nxp.com
