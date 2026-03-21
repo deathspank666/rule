@@ -177,6 +177,7 @@ intellij.net
 intellipaat.com
 iperf3serverlist.net
 isshiki.donmai.u
+itunes.apple.com
 jabra.com
 jetbrains.ai
 joesandbox.com
