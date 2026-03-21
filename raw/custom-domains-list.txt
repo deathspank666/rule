@@ -177,7 +177,6 @@ intellij.net
 intellipaat.com
 iperf3serverlist.net
 isshiki.donmai.u
-itunes.apple.com
 jabra.com
 jetbrains.ai
 joesandbox.com
@@ -208,6 +207,7 @@ localsend.org
 logo.com
 lostfilm.info
 lostpix.com
+lovable.dev
 lowendtalk.com
 lowes.com
 m3u.in
