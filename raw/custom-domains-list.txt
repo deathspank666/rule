@@ -95,6 +95,7 @@ deepsource.com
 deepsource.io
 designyoutrust.com
 devart.com
+deviantart.net
 devops.com
 dice.com
 dickssportinggoods.com
@@ -195,6 +196,7 @@ klaviyo.com
 kowalski7cc.xyz
 kroger.com
 labs.google
+last.fm
 lego.com
 leica-geosystems.com
 lenso.ai
@@ -339,6 +341,7 @@ showtime.com
 siemens.com
 sing-box.sagernet.org
 skyshowtime.com
+sleazyfork.org
 slideshare.net
 soapui.org
 spankbang.com
@@ -385,6 +388,8 @@ trionworlds.com
 trueachievements.com
 tsheets.com
 tunemymusic.com
+turbo.cr
+turbocdn.st
 turbovid.cr
 tvn24.pl
 ubnt.com
@@ -409,6 +414,7 @@ webscraper.io
 wellfound.com
 wetransfer.com
 windguru.cz
+wixmp.com
 wizardingworld.com
 wk.cz
 wonderclub.com
