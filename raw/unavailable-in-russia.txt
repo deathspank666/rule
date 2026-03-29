@@ -196,6 +196,7 @@ designify.com
 devart.com
 developer.nvidia.com
 devexpress.com
+deviantart.net
 diabrowser.com
 dice.com
 dickssportinggoods.com
@@ -385,7 +386,6 @@ isshiki.donmai.u
 itch.io
 itninja.com
 itunes.apple.com
-ixxx.com
 jabra.com
 jamf.com
 jetbrains.ai
@@ -396,6 +396,7 @@ joyreactor.cc
 jpg4.su
 jpg5.su
 jpg6.su
+jpg7.su
 jsfiddle.net
 jut-su.net
 jut.su
@@ -426,6 +427,7 @@ kym-cdn.com
 labs.google
 lambdalabs.com
 langdock.com
+last.fm
 ldoceonline.com
 le-production.tv
 legalshield.com
@@ -454,6 +456,7 @@ lostfilm.tw
 lostfilm.uno
 lostfilmtv2.site
 lostpix.com
+lovable.dev
 lowendtalk.com
 lowes.com
 lu4.org
@@ -689,16 +692,9 @@ salesforceiq.com
 salesforceliveagent.com
 samsclub.com
 sap.com
-saveeditonline.com
 saverudata.net
 sb-cd.com
 sbom.sh
-sc-cdn.net
-sc-corp.net
-sc-gw.com
-sc-jpl.com
-sc-prod.net
-sc-static.net
 schaeffler.com
 schenker-tech.de
 sci-hub.st
@@ -752,20 +748,13 @@ sklatchiki.ru
 sky.com
 skycdp.com
 skyshowtime.com
+sleazyfork.org
 slifki.biz
 smartbear.co
 smartbear.com
 sms-activate.io
-snap-dev.net
-snap.com
-snapads.com
-snapchat-com
 snapgametech.com
 snapgene.com
-snapkit.com
-snapmap.com
-snapmap.org
-snapmaps.com
 sndcdn.com
 snort.org
 snyk.io
@@ -828,6 +817,8 @@ tenable.com
 teslasoft.org
 theaudiodb.com
 thegameawards.com
+thenorthface.com
+thenorthfacerenewed.com
 theporndude.com
 thesassway.com
 thetvdb.com
@@ -853,6 +844,8 @@ truthsocial.com
 tsheets.com
 tsmc.com
 tunemymusic.com
+turbo.cr
+turbocdn.st
 turbovid.cr
 tuta.io
 tvdevinfo.com
