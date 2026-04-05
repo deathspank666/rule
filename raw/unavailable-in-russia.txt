@@ -22,6 +22,9 @@ agar.io
 ahcdn.com
 ahrefs.com
 ai-chat.bsg.brave.com
+aimlab.gg
+aimlabs.com
+aimlabspages.kinsta.cloud
 airbrake.io
 aircanada.com
 akc.org
@@ -599,6 +602,7 @@ paritydeals.com
 parsec.app
 parts-express.com
 patreonusercontent.com
+pca.st
 pcgamesn.com
 pcmag.com
 penguin.com
@@ -622,6 +626,7 @@ plugin-alliance.com
 plugshare.com
 pluralsight.com
 pny.com
+pocketcasts.com
 polymarket.com
 porntrex.com
 posthog.com
