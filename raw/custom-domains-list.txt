@@ -8,7 +8,6 @@ acurapartswarehouse.com
 adafruit.com
 adam-audio.com
 adbappcontrol.com
-adobe.io
 agar.io
 ahcdn.com
 aimlab.gg
@@ -58,6 +57,7 @@ broccolionline.jp
 bsky.app
 cambiumnetworks.com
 canva-apps.com
+capcut.com
 cdn2site.com
 cdn32.lol
 cdntogo.net
@@ -68,7 +68,6 @@ chatfuel.com
 chunkserve.com
 cici.com
 clarabridge.net
-claude.com
 clients2.google.com
 clients4.google.com
 clients6.google.com
@@ -169,6 +168,7 @@ hostup.se
 hpe.com
 humblebundle.com
 hyundainews.com
+i.ibb.co
 iaai.com
 icd10data.com
 idtech.services
@@ -184,7 +184,6 @@ isshiki.donmai.u
 itunes.apple.com
 jabra.com
 jetbrains.ai
-joesandbox.com
 joyreactor.cc
 jpg4.su
 jpg5.su
@@ -199,7 +198,6 @@ klaviyo.com
 kowalski7cc.xyz
 kroger.com
 labs.google
-last.fm
 lego.com
 leica-geosystems.com
 lenso.ai
@@ -268,7 +266,6 @@ octostatic.com
 openculture.com
 openrailwaymap.org
 opensubtitles.com
-oraclecloud.com
 ottg.app
 outflank.nl
 padi.com
@@ -363,7 +360,6 @@ steganos.com
 stereophile.com
 stockx.com
 store.epicgames.com
-streamable.com
 studychat.app
 stuff.co.nz
 stun.l.google.com
@@ -417,7 +413,6 @@ we.tl
 webex.com
 webscraper.io
 wellfound.com
-wetransfer.com
 windguru.cz
 wixmp.com
 wizardingworld.com
