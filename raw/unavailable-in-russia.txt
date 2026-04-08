@@ -53,6 +53,7 @@ annimon.com
 ansible.com
 ansys.com
 anthropic.com
+anthropic.qualtrics.com
 any.do
 anythingllm.com
 api.imgur.com
@@ -76,6 +77,7 @@ avcdn.net
 avira.com
 b-cdn.net
 bacch.com
+backend-v2.crixet.com
 beacon3d.com
 beamng.com
 bell-sw.com
@@ -127,7 +129,9 @@ cdromance.org
 cdw.com
 census.gov
 cesium.com
+chainreactioncycles.com
 chaos.com
+charhub.io
 chat.openai.com.cdn.cloudflare.net
 chatfuel.com
 chesscomfiles.com
@@ -183,6 +187,8 @@ cvedetails.com
 cybersecurity-help.cz
 daemon-tools.cc
 darkproject.eu
+dashboard.algolia.com
+dashboard.gitguardian.com
 data-cdn.mbamupdates.com
 data.cline.bot
 databricks.com
@@ -213,8 +219,8 @@ docs.liquibase.com
 document360.com
 document360.io
 download3.omnissa.com
+downloads.intercomcdn.com
 dpidetector.org
-dreamina.capcut.com
 dub.sh
 ducati.com
 dyson.com
@@ -264,6 +270,7 @@ filmix.fan
 filmix.fm
 filmix.la
 findagrave.com
+fivetran.com
 fixupx.com
 flexpool.io
 flibusta.net
@@ -312,6 +319,8 @@ git.new
 gitlab.com
 global.fncstatic.com
 glpals.com
+gofund.me
+gonift.com
 gonitro.com
 google.dev
 gpsonextra.net
@@ -323,6 +332,7 @@ graylog.org
 greasyfork.org
 gridgain.com
 grizzlysms.com
+grok.x.com
 groq.com
 groupon.com
 grouponcdn.com
@@ -352,10 +362,12 @@ hotels.com
 housebrand.com
 hpe.com
 htmhell.dev
+httptoolkit.com
 humblebundle.com
 hume.ai
 hybrid-analysis.com
 hyundainews.com
+i.ibb.co
 iaai.com
 ibm.com
 icd10data.com
@@ -382,6 +394,7 @@ intelix.sophos.com
 intellij.net
 intellipaat.com
 interactivebrokers.co.uk
+intercom.io
 intuit.com
 intuitibits.com
 iperf3serverlist.net
@@ -485,6 +498,7 @@ medicalnewstoday.com
 meest-shop.com
 meet.turns.goog
 meetings.googleapis.com
+meetup.com
 mega.co.nz
 mega.io
 mega.nz
@@ -519,6 +533,7 @@ mos-gorsud.site
 mouser.fi
 msn.com
 mssg.me
+multisim.com
 mw2.wiki
 myanimelist.net
 myfonts.com
@@ -551,6 +566,7 @@ nflxso.net
 nflxvideo.net
 ngrok.com
 nhl.com
+ni.com
 nike.com
 nippon.com
 nitropdf.com
@@ -614,6 +630,7 @@ perplexity.ai
 perplexity.com
 peter-tanner.com
 pexels.com
+philiascans.org
 philscomputerlab.com
 phishtank.com
 photonengine.com
@@ -650,6 +667,8 @@ pvpessence.com
 qaweb.dev
 qcad.org
 qobuz.com
+qodana.cloud
+qoder.com
 qt.io
 qualcomm.com
 quicknode.com
@@ -702,6 +721,7 @@ sb-cd.com
 sbom.sh
 schaeffler.com
 schenker-tech.de
+schneider-electric.com
 sci-hub.st
 screamingfrog.co.uk
 script.google.com
@@ -722,6 +742,7 @@ scryde7.net
 scryde8.net
 scryde9.net
 sdxcentral.com
+se.com
 seconddinnertech.com
 securitytrails.com
 seekvectorlogo.net
@@ -873,6 +894,7 @@ v.vrv.co
 vagrantcloud.com
 vaio.com
 veeam.com
+verificationacademy.com
 viperatech.com
 vipergirls.to
 visualcapitalist.com
@@ -891,6 +913,7 @@ wallpapercave.com
 walmart.com
 watermarkremover.io
 wattpad.com
+wbagora.com
 wbgames.com
 wdfiles.com
 we.tl
@@ -921,6 +944,7 @@ xnxx-cdn.com
 xnxx.net
 xnxx.tv
 xraycore.org
+xrite.com
 xsts.auth.xboxlive.com
 xtracloud.net
 xvideos-cdn.com
