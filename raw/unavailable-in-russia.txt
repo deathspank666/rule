@@ -1,5 +1,6 @@
 10minutemail.com
 2407.pl
+3parug.com
 4pda.ws
 4pna.com
 5sim.net
@@ -17,6 +18,7 @@ adam-audio.com
 adbappcontrol.com
 adidas.com
 adminforge.de
+adtran.com
 affinity.studio
 agar.io
 ahcdn.com
@@ -74,6 +76,7 @@ audiobookbay.lu
 augmentcode.com
 av-connection.com
 avcdn.net
+avid.com
 avira.com
 b-cdn.net
 bacch.com
@@ -81,6 +84,7 @@ backend-v2.crixet.com
 beacon3d.com
 beamng.com
 bell-sw.com
+bestbuy.ca
 bestbuy.com
 bestchange.ru
 bgpmon.net
@@ -93,6 +97,9 @@ bluesky-soft.com
 blur.io
 booth.pm
 booth.pximg.net
+bosch-home.co.nz
+bosch-home.com.sg
+bosch-professional.com
 bosch.com
 bosch.de
 boschaftermarket.com
@@ -100,9 +107,11 @@ boschautoparts.com
 botnadzor.org
 brawlstarsgame.com
 bricklink.com
+brickset.com
 broadcom.com
 broccolionline.jp
 broncosportforum.com
+bsh-group.com
 bsky.app
 bt4gprx.com
 btdig.com
@@ -111,6 +120,8 @@ buanzo.org
 buf.build
 bufferbloat.net
 buymeacoffee.com
+cacti.net
+cadence.com
 cambiumnetworks.com
 canva-apps.com
 canva.dev
@@ -135,6 +146,7 @@ charhub.io
 chat.openai.com.cdn.cloudflare.net
 chatfuel.com
 chesscomfiles.com
+chipestimate.com
 chub.ai
 chunkserve.com
 cici.com
@@ -163,7 +175,9 @@ coinpayments.net
 coinsbee.com
 coldfilm.city
 coldfilm.xyz
+comazo.de
 community.sophos.com
+completeaccess.audio
 connect.ngrok-agent.com
 contabo.com
 coomer.su
@@ -177,6 +191,7 @@ credly.com
 crixet.com
 crowdstrike.com
 crunchbase.com
+csagroup.org
 cub.red
 curseforge.com
 cursor-cdn.com
@@ -200,8 +215,10 @@ decrypt.day
 deepsource.com
 deepsource.io
 dellcdn.com
+delltechnologies.com
 designer.microsoft.com
 designify.com
+desipro.de
 devart.com
 developer.nvidia.com
 devexpress.com
@@ -212,12 +229,15 @@ dickssportinggoods.com
 diffblue.com
 digash.live
 digikey.com
+digikey.sg
 digitalcontent.sky
 disctech.com
 dnb.com
 docs.liquibase.com
 document360.com
 document360.io
+dogpile.com
+dolby.com
 download3.omnissa.com
 downloads.intercomcdn.com
 dpidetector.org
@@ -246,6 +266,7 @@ engagor.com
 entrust.com
 eporner.com
 esahubble.org
+espares.ie
 eu.shop.battle.net
 everand.com
 exchanger.bits.media
@@ -257,12 +278,14 @@ f95-zone.to
 familysearch.org
 fanatical.com
 fansly.com
+fansub.com.br
 fantasy-worlds.net
 fast.com
 fastflux.ai
 fastspring.com
 fiercepc.co.uk
 filebin.net
+filehippo.com
 files.manus.cdn
 filmitorrent.net
 filmix.ac
@@ -291,8 +314,10 @@ fosshub.com
 fotoforensics.com
 foxnews.com
 framer.com
+freediscussions.com
 freeimages.com
 freemyip.com
+freescale.com
 futurelearn.com
 fxnetworks.com
 g711.org
@@ -319,6 +344,7 @@ git.new
 gitlab.com
 global.fncstatic.com
 glpals.com
+gmv.com
 gofund.me
 gonift.com
 gonitro.com
@@ -465,6 +491,7 @@ llamameta.net
 localsend.org
 logo.com
 lolz.guru
+londonstockexchange.com
 lookerstudio.google.com
 lostfilm.download
 lostfilm.info
@@ -475,6 +502,7 @@ lostpix.com
 lovable.dev
 lowendtalk.com
 lowes.com
+lseg.com
 lu4.org
 lucid.app
 lyst.com
@@ -507,13 +535,16 @@ megapeer.vip
 megogo.net
 meraki.com
 meshcapade.com
+meta.ai
 meta.com
+metacrawler.com
 metademolab.com
 metopera.org
 michaelkors.global
 microcenter.com
 microchip.com
 middlewareinventory.com
+mikrocontroller.net
 militarnyi.com
 mint.com
 mintmobile.com
@@ -553,6 +584,7 @@ netflix.net
 netflixinvestor.com
 netflixtechblog.com
 netlify.com
+netscaler.com
 neuesbad.de
 new.abb.com
 newark.com
@@ -577,7 +609,9 @@ notion-emojis.s3-us-west-2.amazonaws.com
 notion-static.com
 notion.new
 notion.site
+nsa.gov
 nsfwdog.com
+ntfsformac.tuxera.com
 ntp.msn.com
 nude-moon.org
 nxp.com
@@ -621,6 +655,8 @@ patreonusercontent.com
 pca.st
 pcgamesn.com
 pcmag.com
+pcspecialist.co.uk
+pdfexpert.com
 penguin.com
 penguinrandomhouse.com
 pepephone.com
@@ -634,6 +670,7 @@ philiascans.org
 philscomputerlab.com
 phishtank.com
 photonengine.com
+pi.ai
 picoxr.com
 pimeyes.com
 pinata.cloud
@@ -651,6 +688,7 @@ postimg.cc
 postimgs.org
 pplx.ai
 premierleague.com
+prh.com
 primark.com
 primevue.org
 privatekeys.pw
@@ -698,6 +736,7 @@ render-state.to
 research.net
 reve.art
 reverb.com
+ribbonsoft.com
 rockthejvm.com
 rublacklist.net
 ruckuswireless.com
@@ -715,6 +754,7 @@ salesforce.com
 salesforceiq.com
 salesforceliveagent.com
 samsclub.com
+sans.edu
 sap.com
 saverudata.net
 sb-cd.com
@@ -743,6 +783,7 @@ scryde8.net
 scryde9.net
 sdxcentral.com
 se.com
+seagate.com
 seconddinnertech.com
 securitytrails.com
 seekvectorlogo.net
@@ -762,6 +803,8 @@ shiksha.com
 shinyhardware.co.uk
 shiza-project.com
 shop.gameloft.com
+shopee.co.id
+shopee.tw
 showtime.com
 siemens.com
 simplex.chat
@@ -798,6 +841,7 @@ sponsor.ajay.app
 spotify.com
 spreadthesign.com
 squadbustersgame.com
+square.com
 squareup.com
 st.com
 stackoverflow.com
@@ -887,8 +931,10 @@ ultraedit.com
 undress.cc
 unscreen.com
 unsplash.com
+upv.es
 upwork.com
 urlr.me
+usa.canon.com
 usher.ttvnw.net
 v.vrv.co
 vagrantcloud.com
@@ -928,13 +974,16 @@ widgetapp.stream
 wiki.fextralife.com
 wikidot.com
 windows10spotlight.com
+windriver.com
 windsurf.com
 wizardingworld.com
 wk.cz
 wonderclub.com
 worldcat.org
+wrs.com
 www3.corsair.com
 x-minus.pro
+xenserver.com
 xerox.com
 xfantazy.com
 xhcdn.com
@@ -959,4 +1008,5 @@ zedge.net
 zerossl.com
 zetalliance.org
 zf.com
+zomato.com
 zoosk.com
