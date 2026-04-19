@@ -3,11 +3,31 @@
   "rules": [
     {
       "domain_suffix": [
+        "kp.ru",
         "kinopoisk.ru",
         "yandex.ru",
         "yandex.net",
         "clstorage.net",
-        "yastatic.net"
+        "yastatic.net",
+        "rutube.ru",
+        "rutubelist.ru",
+        "rtbcdn.ru",
+        "okkoapi.tv",
+        "playfamily.ru",
+        "okko.sport",
+        "okko.tv",
+        "restream-media.net",
+        "wink.ru",
+        "cdn-vk.ru",
+        "vk-portal.net",
+        "vk.com",
+        "vk.ru",
+        "userapi.com",
+        "ivi.ru",
+        "smotrim.ru",
+        "premier.ru",
+        "start.ru",
+        "amedia.tv"
       ]
     }
   ]
