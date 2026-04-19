@@ -426,6 +426,7 @@ intuitibits.com
 iperf3serverlist.net
 isshiki.donmai.u
 itch.io
+itch.zone
 itninja.com
 itunes.apple.com
 jabra.com
