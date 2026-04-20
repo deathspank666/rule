@@ -189,6 +189,7 @@ habrastorage.org
 hangouts.clients6.google.com
 hangouts.google.com
 harrypotter.com
+hashflare.io
 hashkey.com
 heavyfetish.com
 hex-rays.com
@@ -243,6 +244,7 @@ londonstockexchange.com
 lostfilm.info
 lostpix.com
 lovable.dev
+lovart.ai
 lowendtalk.com
 lowes.com
 lseg.com
@@ -303,6 +305,7 @@ octopart-clicks.com
 octopart.com
 octostatic.com
 openculture.com
+openfoodfacts.org
 openrailwaymap.org
 opensubtitles.com
 ottg.app
