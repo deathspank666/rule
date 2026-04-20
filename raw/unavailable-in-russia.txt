@@ -369,6 +369,7 @@ halooglasi.com
 hangouts.clients6.google.com
 hangouts.google.com
 harrypotter.com
+hashflare.io
 hashicorp.com
 hashkey.com
 haydaygame.com
@@ -501,6 +502,7 @@ lostfilm.uno
 lostfilmtv2.site
 lostpix.com
 lovable.dev
+lovart.ai
 lowendtalk.com
 lowes.com
 lseg.com
@@ -630,6 +632,7 @@ onfastspring.com
 onlinesim.io
 onshape.com
 openculture.com
+openfoodfacts.org
 openh264.org
 openrailwaymap.org
 openrouter.ai
