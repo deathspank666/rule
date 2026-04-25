@@ -58,6 +58,7 @@ anthropic.com
 anthropic.qualtrics.com
 any.do
 anythingllm.com
+api.alador.space
 api.imgur.com
 api.jetbrains.ai
 api.service-kp.com
@@ -243,6 +244,7 @@ downloads.intercomcdn.com
 dpidetector.org
 dub.sh
 ducati.com
+duolingo.com
 dyson.com
 dyson.nl
 dyson.se
@@ -359,6 +361,8 @@ greasyfork.org
 gridgain.com
 grizzlysms.com
 grok.x.com
+grokipedia.com
+grokusercontent.com
 groq.com
 groupon.com
 grouponcdn.com
