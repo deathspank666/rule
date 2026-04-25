@@ -30,6 +30,7 @@ anime1.best
 annimon.com
 ansible.com
 anythingllm.com
+api.alador.space
 api.imgur.com
 apiary.io
 aplawrence.com
@@ -123,6 +124,7 @@ digikey.sg
 dnb.com
 dogpile.com
 dolby.com
+duolingo.com
 dyson.nl
 dyson.se
 e-katalog.com.ua
@@ -184,6 +186,8 @@ grammarly.com
 grazie.ai
 greasyfork.org
 gridgain.com
+grokipedia.com
+grokusercontent.com
 grouponcdn.com
 habrastorage.org
 hangouts.clients6.google.com
