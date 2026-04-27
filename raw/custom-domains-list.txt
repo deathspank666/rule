@@ -32,6 +32,7 @@ ansible.com
 anythingllm.com
 api.alador.space
 api.imgur.com
+api.leiniao.com
 apiary.io
 aplawrence.com
 appstorrent.ru
@@ -49,6 +50,7 @@ beacon3d.com
 beamng.com
 bestbuy.ca
 bgpmon.net
+bing.net
 blackfriday.com
 blizzardwatch.com
 bluesky-soft.com
@@ -347,6 +349,7 @@ postimgs.org
 pplx.ai
 prh.com
 promods.net
+prosopo.io
 ptc.com
 pump.fun
 pushbr.com
