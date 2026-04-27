@@ -61,6 +61,7 @@ anythingllm.com
 api.alador.space
 api.imgur.com
 api.jetbrains.ai
+api.leiniao.com
 api.service-kp.com
 apiary.io
 apkmirror.com
@@ -89,6 +90,7 @@ bestbuy.ca
 bestbuy.com
 bestchange.ru
 bgpmon.net
+bing.net
 bitdefender.com
 bitnami.com
 blackfriday.com
@@ -703,6 +705,7 @@ privatekeys.pw
 proactivebackend-pa.googleapis.com
 profitwell.com
 promods.net
+prosopo.io
 prowlarr.com
 pscp.tv
 ptc.com
