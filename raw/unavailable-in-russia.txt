@@ -11,6 +11,7 @@
 9cache.com
 a-vrv.akamaized.net
 abercrombie.com
+accounts.spotify.com
 accuweather.com
 activestate.com
 acurapartswarehouse.com
@@ -478,6 +479,7 @@ labs.google
 lambdalabs.com
 langdock.com
 last.fm
+launchpad.io
 ldoceonline.com
 le-production.tv
 legalshield.com
@@ -992,6 +994,7 @@ wk.cz
 wonderclub.com
 worldcat.org
 wrs.com
+www.spotify.com
 www3.corsair.com
 x-minus.pro
 xenserver.com
