@@ -3,6 +3,7 @@
 6pm.com
 8chan.moe
 9cache.com
+accounts.spotify.com
 accuweather.com
 activestate.com
 acurapartswarehouse.com
@@ -16,6 +17,7 @@ aimlab.gg
 aimlabs.com
 aimlabspages.kinsta.cloud
 airbrake.io
+aistudio.google.com
 alberta.ca
 alienwarearena.com
 alkalimakersuite-pa.clients6.google.com
@@ -235,6 +237,7 @@ klaviyo.com
 kowalski7cc.xyz
 kroger.com
 labs.google
+launchpad.io
 lego.com
 leica-geosystems.com
 lenso.ai
@@ -483,6 +486,7 @@ wk.cz
 wonderclub.com
 worldcat.org
 wrs.com
+www.spotify.com
 xenserver.com
 xerox.com
 xfantazy.com

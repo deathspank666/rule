@@ -3,6 +3,7 @@ clients4.google.com
 clients6.google.com
 hangouts.clients6.google.com
 hangouts.google.com
+hangouts.googleapis.com
 meet.google.com
 meet.turns.goog
 meetings.googleapis.com
