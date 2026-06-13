@@ -19,6 +19,7 @@ aimlabspages.kinsta.cloud
 airbrake.io
 aistudio.google.com
 alberta.ca
+algolia.com
 alienwarearena.com
 alkalimakersuite-pa.clients6.google.com
 alkalimining-pa.googleapis.com
@@ -35,6 +36,7 @@ anythingllm.com
 api.alador.space
 api.imgur.com
 api.leiniao.com
+api.x.com
 apiary.io
 aplawrence.com
 appstorrent.ru
@@ -356,6 +358,7 @@ prosopo.io
 ptc.com
 pump.fun
 pushbr.com
+pxl.to
 qaweb.dev
 qcad.org
 qobuz.com
@@ -374,6 +377,7 @@ reka.ai
 resp.app
 reverb.com
 ribbonsoft.com
+robinfrontend-pa.googleapis.com
 rockthejvm.com
 ruckuswireless.com
 rustdesk.com
@@ -417,6 +421,7 @@ st.com
 stackoverflow.com
 stalker2.com
 stashdb.org
+static.app
 steamdb.info
 steamidfinder.com
 steganos.com
@@ -475,6 +480,7 @@ wallpapercave.com
 wattpad.com
 wdfiles.com
 we.tl
+web.archive.org
 webex.com
 webscraper.io
 wellfound.com
