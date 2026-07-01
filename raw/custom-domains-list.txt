@@ -60,6 +60,7 @@ blizzardwatch.com
 bluesky-soft.com
 blur.io
 boosteroid.com
+bosch-diy.com
 bosch-home.co.nz
 bosch-home.com
 bosch-home.com.sg
@@ -74,6 +75,7 @@ bsky.app
 cacti.net
 cadence.com
 cambiumnetworks.com
+camunda.io
 canva-apps.com
 capcut.com
 cdn2site.com
@@ -98,6 +100,7 @@ cohere.com
 comazo.de
 completeaccess.audio
 copernicus.eu
+coursera.com
 cpuid.com
 crdroid.net
 crixet.com
@@ -105,10 +108,7 @@ crowdstrike.com
 crunchbase.com
 csagroup.org
 curseforge.com
-cursor-cdn.com
 cursor.com
-cursor.sh
-cursorapi.com
 cybersecurity-help.cz
 darkproject.eu
 databricks.com
@@ -138,6 +138,7 @@ e-katalog.ua
 easyjet.com
 easylist-downloads.adblockplus.org
 ed-nl.mycdn.video
+editmysite.com
 ek.ua
 elastic.co
 elgato.com
@@ -155,10 +156,12 @@ fansub.com.br
 fantasy-worlds.net
 fastflux.ai
 fastspring.com
+fedex.com
 fiercepc.co.uk
 fikfap.com
 filehippo.com
 findagrave.com
+fireworks.ai
 fixupx.com
 flexpool.io
 fortiguard.com
@@ -185,6 +188,8 @@ getsafeonline.org
 ghidra-sre.org
 gifer.com
 gitlab.com
+gmplib.org
+gmu.edu
 gmv.com
 google.dev
 gov.ua
@@ -214,6 +219,7 @@ icd10data.com
 idtech.services
 imagecache365.com
 informit.com
+infosecinstitute.com
 insanelymac.com
 insideevs.com
 intel.se
@@ -231,6 +237,7 @@ jpg5.su
 jpg6.su
 jpg7.su
 jsfiddle.net
+justanswer.co.uk
 keepgrowing.in
 keepsolid.com
 kemono.cr
@@ -288,6 +295,7 @@ mikrocontroller.net
 militarnyi.com
 mint.com
 missav123.com
+mistral.ai
 moneypuck.com
 mongodb.net
 monotype.com
@@ -319,6 +327,8 @@ openculture.com
 openfoodfacts.org
 openrailwaymap.org
 opensubtitles.com
+opentext.com
+otawa.fr
 ottg.app
 outflank.nl
 padi.com
@@ -330,6 +340,7 @@ pca.st
 pcbway.com
 pcspecialist.co.uk
 pdfexpert.com
+pencil.dev
 pepephone.com
 perforce.com
 perplexity.ai
@@ -361,7 +372,6 @@ pushbr.com
 pxl.to
 qaweb.dev
 qcad.org
-qobuz.com
 radarr.video
 ratatype.com
 raycast-releases.com
@@ -374,6 +384,7 @@ redditp.com
 redis.com
 refinitiv.com
 reka.ai
+replicate.com
 resp.app
 reverb.com
 ribbonsoft.com
@@ -412,6 +423,8 @@ sleazyfork.org
 slideshare.net
 slow.pics
 soapui.org
+socradar.io
+solidstatelogic.com
 spankbang.com
 splunk.com
 splunkcloud.com
@@ -436,6 +449,7 @@ summerana.com
 support.ts.fujitsu.com
 syncfusion.com
 syncthing.net
+synopsys.com
 sysdig.com
 systemtek.co.uk
 tampermonkey.net
@@ -452,6 +466,7 @@ thesassway.com
 thinkpads.com
 thomas-krenn.com
 timberland.com
+together.ai
 tommy.com
 translate-pa.googleapis.com
 trionworlds.com
@@ -479,7 +494,6 @@ walletconnect.com
 wallhaven.cc
 wallpapercave.com
 wattpad.com
-wdfiles.com
 we.tl
 web.archive.org
 webex.com
@@ -494,6 +508,7 @@ wonderclub.com
 worldcat.org
 wrs.com
 www.spotify.com
+xdaforums.com
 xenserver.com
 xerox.com
 xfantazy.com
@@ -502,7 +517,6 @@ xraycore.org
 xxxtorrent.top
 yithemes.com
 yourdictionary.com
-zerossl.com
 zetalliance.org
 zf.com
 zomato.com
