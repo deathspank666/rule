@@ -307,6 +307,7 @@ msn.com
 myfonts.com
 myprepaidcenter.com
 myrotvorets.center
+nab.com.au
 ndi.tv
 netscaler.com
 neuesbad.de
@@ -397,6 +398,7 @@ samsclub.com
 sans.edu
 sb-cd.com
 sbom.sh
+scdn.co
 schaeffler.com
 schenker-tech.de
 screamingfrog.co.uk
@@ -406,6 +408,7 @@ securitytrails.com
 seekvectorlogo.net
 selezen.club
 sendy.jp
+sequoia.apple.com
 serato.com
 serialcart.com
 serif.com
@@ -415,6 +418,7 @@ sex.com
 shiksha.com
 shopee.co.id
 shopee.tw
+shouldianswer.net
 showtime.com
 siemens.com
 sing-box.sagernet.org
@@ -429,6 +433,7 @@ spankbang.com
 splunk.com
 splunkcloud.com
 sponsor.ajay.app
+spotifycdn.com
 square.com
 st.com
 stackoverflow.com
