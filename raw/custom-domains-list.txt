@@ -264,6 +264,7 @@ game8.co
 gateway.pinata.cloud
 geekuninstaller.com
 gemini.google.com
+geminiweb-pa.clients6.google.com
 generativelanguage.googleapis.com
 genius.com
 geospy.ai
@@ -506,7 +507,6 @@ samsclub.com
 sans.edu
 sb-cd.com
 sbom.sh
-scdn.co
 schaeffler.com
 schenker-tech.de
 screamingfrog.co.uk
